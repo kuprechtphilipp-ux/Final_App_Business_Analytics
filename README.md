@@ -22,7 +22,7 @@ All business logic is separated from UI code for maintainability.
 
 ## Project Structure
 
-root/
+WebApp_deployed_final/
 │
 ├── main.py             # Central navigation & routing
 ├── home.py             # Landing page
