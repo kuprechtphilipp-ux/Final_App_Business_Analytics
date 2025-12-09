@@ -42,15 +42,15 @@ root/
 ├── data/
 │ ├── profiles.json     # User profiles (auto-generated)
 │ ├── occupancy_arrondissement.csv
-│ ├── paris.geojson
+│ └── paris.geojson
 │
 ├── ml_models/
-│ └── predict_airbnb_prices.sav     # ML model files
-│ └── predict_cost_of_cleaning.sav
+│ ├──  predict_airbnb_prices.sav     # ML model files
+│ ├──  predict_cost_of_cleaning.sav
 │ └── predict_renting_price.sav
 │
 ├── images/
-│ └── app_logo.png
+│ ├──  app_logo.png
 │ └── logo.png
 │
 └── README.md
