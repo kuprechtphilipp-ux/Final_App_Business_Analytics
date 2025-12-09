@@ -1,0 +1,96 @@
+{
+    "test": {
+        "email": "test",
+        "password": "test",
+        "host_is_superhost": true,
+        "host_listings_count": 1,
+        "host_identity_verified": true,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "arrondissement": 4,
+        "room_type": "Entire home/apt",
+        "num_rooms": 3,
+        "amenities": [
+            "WiFi"
+        ]
+    },
+    "Philipp_Kuprecht": {
+        "email": "philipp.kuprecht@student.unisg.ch",
+        "password": "1801",
+        "host_is_superhost": true,
+        "host_listings_count": 3,
+        "host_identity_verified": true,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "arrondissement": 3,
+        "room_type": "Hotel room",
+        "num_rooms": 1,
+        "amenities": [
+            "Kitchen",
+            "Wifi",
+            "Bathtub",
+            "Hair Dryer",
+            "Smoke Alarm",
+            "Bed Linens"
+        ],
+        "Number of rooms renting": 0,
+        "furnished": false
+    },
+    "test1": {
+        "email": "test@test1.com",
+        "password": "test1",
+        "host_is_superhost": true,
+        "host_listings_count": 1,
+        "host_identity_verified": true,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "arrondissement": 2,
+        "room_type": "Hotel room",
+        "num_rooms": 2,
+        "amenities": [
+            "Kitchen",
+            "Smoke Alarm",
+            "Hair Dryer",
+            "Hot Water",
+            "Wifi"
+        ]
+    },
+    "test2": {
+        "email": "test2@test.com",
+        "password": "test2",
+        "host_is_superhost": true,
+        "host_listings_count": 1,
+        "host_identity_verified": true,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "arrondissement": 7,
+        "room_type": "Shared room",
+        "num_rooms": 3,
+        "amenities": [
+            "Wifi",
+            "Hair Dryer",
+            "Kitchen",
+            "Bed Linens",
+            "Iron",
+            "Cooking Basics"
+        ]
+    },
+    "test3": {
+        "email": "test3@gmail.com",
+        "password": "test3",
+        "host_is_superhost": true,
+        "host_listings_count": 1,
+        "host_identity_verified": true,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "arrondissement": 2,
+        "room_type": "Entire home/apt",
+        "num_rooms": 1,
+        "amenities": [
+            "Bed Linens",
+            "Bathtub",
+            "Books And Reading Material",
+            "Board Games"
+        ]
+    }
+}
