@@ -1,0 +1,12 @@
+# customize theme of app
+[theme]
+base="dark"
+primaryColor="#ff4444"               # red accents
+backgroundColor="#0d0d0d"            # main background
+secondaryBackgroundColor="#1a1a1a"   # cards, containers
+textColor="#ffffff"                  # all text
+font="serif"
+
+# to not show sidebar and use our sidebar navigation
+[client]
+showSidebarNavigation = false
